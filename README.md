@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @toupy-z</h1>
-<h3 align="center">A sixth form student studying Maths, Computer Science and Economics</h3>
+<h3 align="center">A sixth form student studying Maths, Computer Science and Economics A-level</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
