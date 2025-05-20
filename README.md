@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @toupy-z</h1>
+<h1 align="center">Hi 👋, I'm @toupyz</h1>
 <h3 align="center">A sixth form student studying Maths, Computer Science and Economics A-level</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -8,8 +8,8 @@
 
 ## 📈 GitHub Stats
 
-![Toupy-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=toupy-z&show_icons=true&theme=radical)
+![Toupy-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=toupyz&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toupy-z&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toupyz&layout=compact&theme=radical)
